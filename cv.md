@@ -1,12 +1,12 @@
 # :slightly_smiling_face:**Victoria Mironova**
 ## :nerd_face: *Beginner developer/designer*
 ### **Contact information:** 
-* E-mail: [vika.mironova.00@mail.ru](mailto:vika.mironova.00@mail.ru)
-* Telegram: [Виктория Миронова](https://t.me/mironvvvv)
-* Discord: Victoria Mironova(@mironvvvv)
+* E-mail: [vika.mironova.00@mail.ru](mailto:vika.mironova.00@mail.ru);
+* Telegram: [Виктория Миронова](https://t.me/mironvvvv);
+* Discord: Victoria Mironova(@mironvvvv).
 *** 
 ### **Briefly About Myself:** 
-I graduated with a Bachelor's degree in Chemical Technology in 2022. After receiving my diploma, I worked in a water quality laboratory and an environmental laboratory. My responsibilities included performing chemical analyses of water, air, and soil. In June 2024, I decided to resign and start learning a new profession – Frontend Development and UX/UI Design. I am so excited!
+I graduated with a Bachelor's degree in Chemical Technology in 2022. After receiving my diploma, I worked in a water quality laboratory and an environmental laboratory. My responsibilities included performing chemical analyses of water, air, and soil. In June 2024, I decided to resign and start learning a new profession – Frontend Development and UX/UI Design. I'm so excited!
 
 I consider my strengths to be a desire to learn new things, the ability to absorb information well, and good teamwork skills. My goal is to learn new professions and find a job.
 ***
