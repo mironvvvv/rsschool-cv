@@ -3,7 +3,8 @@
 ### **Contact information:** 
 * E-mail: [vika.mironova.00@mail.ru](mailto:vika.mironova.00@mail.ru);
 * Telegram: [Виктория Миронова](https://t.me/mironvvvv);
-* Discord: Victoria Mironova(@mironvvvv).
+* Discord: Victoria Mironova(@mironvvvv);
+* Instagram: [mironvvv](https://www.instagram.com/).
 *** 
 ### **Briefly About Myself:** 
 I graduated with a Bachelor's degree in Chemical Technology in 2022. After receiving my diploma, I worked in a water quality laboratory and an environmental laboratory. My responsibilities included performing chemical analyses of water, air, and soil. In June 2024, I decided to resign and start learning a new profession – Frontend Development and UX/UI Design. I'm so excited!
