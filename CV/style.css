@@ -1,0 +1,199 @@
+@font-face {
+  font-family: "TRIAL_Oceanic";
+  src: url("assets/fonts/TRIAL_Oceanic-Regular.otf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "TRIAL_Oceanic";
+  src: url("assets/fonts/TRIAL_Oceanic-Light.otf");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "TRIAL_Oceanic";
+  src: url("assets/fonts/TRIAL_OceanicText-Bold.otf");
+  font-weight: 700;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  min-width: 320px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-family: "TRIAL_Oceanic", "Roboto";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.6;
+  letter-spacing: 1px;
+  background-color: #e9f3fc;
+  color: #557fa1;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.header {
+  background-color: #557fa1;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  text-align: center;
+}
+
+.nav-link {
+  position: relative;
+  padding: 0 40px;
+  line-height: 60px;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 300;
+  transition: color 0.3s ease, font-size 0.3s ease-in-out;
+  color: #b9ddfa;
+}
+
+.nav-link:hover {
+  font-size: 15px;
+  color: #1a3247;
+}
+
+.main {
+  margin-bottom: auto;
+}
+
+.main-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.section {
+  width: 100%;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.section-profile {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 50px 30px;
+}
+
+.section-profile-logo {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 10%;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+}
+
+.section-profile-title {
+  margin-top: 20px;
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: 5px;
+  line-height: 50px;
+  word-spacing: 3px;
+  color: #1a3247;
+}
+
+.section-profile-subtitle {
+  font-size: 15px;
+  line-height: 50px;
+  font-weight: 300;
+  letter-spacing: 3px;
+  color: #1a3247;
+}
+
+.section-list {
+  padding-left: 20px;
+  margin-left: 0;
+  list-style-type: none;
+}
+
+.section-item {
+  margin-bottom: 8px;
+  /* Убрано дублирование margin-bottom */
+  list-style-type: circle;
+}
+
+.section-item a {
+  text-decoration: none;
+  color: #294e6e;
+  text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.212);
+  transition: color 0.3s;
+}
+
+.section-item a:hover {
+  color: #152838;
+}
+
+.section-title {
+  margin-bottom: 15px;
+  font-size: 25px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: #294e6e;
+}
+
+.footer {
+  padding: 20px;
+  background-color: #557fa1;
+}
+
+.footer-container {
+  max-width: 1440px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #b9ddfa;
+}
+
+.rsschool {
+  width: 121px;
+  height: 45px;
+  background-image: url(assets/svg/rs-school-logo.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.github-nav-link {
+  position: relative;
+  padding: 0 40px;
+  line-height: 60px;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 300;
+  transition: color 0.3s ease, font-size 0.3s ease-in-out;
+  color: #b9ddfa;
+}
+
+.github-nav-link:hover {
+  font-size: 15px;
+  color: #1a3247;
+}
