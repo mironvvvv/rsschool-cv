@@ -172,6 +172,7 @@ span {
 
 .card:hover {
     background: var(--color-light-xl, #FFF);
+    cursor: pointer;
 }
 
 .pets-image {
