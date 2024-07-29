@@ -50,10 +50,11 @@ h3 {
 
 h1 {
     font-family: var(--font-family);
-    font-size: 44px;
+    font-size: 32px;
     font-style: normal;
     font-weight: 400;
     line-height: 130%;
+    letter-spacing: 2px;
 }
 
 .paragraph-l {
@@ -113,8 +114,6 @@ span {
 }
 
 .title {
-    margin-bottom: -6px;
-    margin-top: -9px;
     font-family: var(--font-family);
     color: var(--color-dark-l, #545454);
 }
