@@ -27,12 +27,13 @@ html {
     box-sizing: border-box;
 }
 
-
+.container {
+    min-width: 1280px;
+}
 
 .content {
-    width: 100%;
     margin: 0 auto;
-    max-width: 1280px;
+    width: 1280px;
 }
 
 a {
@@ -158,7 +159,7 @@ span {
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    gap: 25px 40px;
+    gap: 28px;
     padding: 14px 0;
 }
 
