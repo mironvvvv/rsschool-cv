@@ -307,12 +307,23 @@ span {
 }
 
 .info {
-    margin-top: 16px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     gap: 40px;
-    padding-bottom: 60px;
+    margin: 16px 0 60px;
+}
+.loc {
+    margin-right: 7px;
+    gap: 30px;
+    justify-content: space-between;
+}
+
+.info-link {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .footer-h3 {
@@ -320,25 +331,7 @@ span {
 
 }
 
-.second {
-    margin-bottom: -9px;
-}
-
-.location-link {
-    margin-bottom: -5px;
-}
-
-.mail-img {
-    display: inline-block;
-    vertical-align: middle;
-    margin-right: 20px;
-}
-
-
-
 .footer-h4 {
-    display: inline-block;
-    vertical-align: middle;
     color: var(--color-primary, #F1CDB3);
     transition: color 0.3s ease;
 }
@@ -346,16 +339,4 @@ span {
 
 .footer-h4:hover {
     color:var(--color-primary-light, #FDDCC4);
-}
-
-.phone-img {
-    display: inline-block;
-    vertical-align: middle;
-    margin-right: 20px;
-}
-
-.location-img {
-    display: inline-block;
-    vertical-align: middle;
-    margin-right: 20px;
 }
