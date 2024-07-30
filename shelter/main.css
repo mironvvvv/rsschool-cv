@@ -489,7 +489,6 @@ h5 {
 
 }
 
-
 .info {
     display: flex;
     flex-direction: column;
@@ -497,24 +496,26 @@ h5 {
     gap: 40px;
     margin: 16px 0 60px;
 }
+.loc {
+    margin-right: 7px;
+    gap: 30px;
+    justify-content: space-between;
+}
 
-.location {
-    margin: -15px 0 0 -6px;
+.info-link {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .footer-h3 {
     color: var(--color-light-xl, #FFF);
 }
 
-.mail-img {
-    display: inline-block;
-    vertical-align: middle;
-    margin-right: 20px;
-}
+
 
 .footer-h4 {
-    display: inline-block;
-    vertical-align: middle;
     color: var(--color-primary, #F1CDB3);
     transition: color 0.3s ease;
 }
@@ -523,14 +524,4 @@ h5 {
     color:var(--color-primary-light, #FDDCC4);
 }
 
-.phone-img {
-    display: inline-block;
-    vertical-align: middle;
-    margin-right: 20px;
-}
 
-.location-img {
-    display: inline-block;
-    vertical-align: middle;
-    margin-right: 20px;
-}
