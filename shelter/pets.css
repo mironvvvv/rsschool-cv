@@ -177,13 +177,14 @@ span {
     padding-bottom: 30px;
     border-radius: 9px;
     background: var(--color-light-s, #FAFAFA);
-    transition: background 0.3s ease;
+    transition: 0.3s ease;
     overflow: hidden;
 }
 
 .card:hover {
     background: var(--color-light-xl, #FFF);
     cursor: pointer;
+    box-shadow: 0px 2px 35px 14px rgba(13, 13, 13, 0.04);
 }
 
 .pets-image {
