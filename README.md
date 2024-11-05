@@ -1,1 +1,1 @@
-https://mironvvvv.github.io/rsschool-cv/
+This branch contains the "Shelter" project folder from RS_School. However, this is an older version of my project, and the latest version is located in another repository. Therefore, this branch can be considered archival.
