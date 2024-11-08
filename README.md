@@ -1,2 +1,1 @@
-The project of creating my CV was the first project at RS_School. I was just at the beginning of my journey in learning programming, so the work was not done professionally. Welcome to my CV!
-https://mironvvvv.github.io/rsschool-cv/CV/index.html
+The project of creating my CV was the first project at RS_School. I was just at the beginning of my journey in learning programming, so the work was not done professionally. Welcome to my [CV!](https://mironvvvv.github.io/rsschool-cv/CV/index.html)
